@@ -18,7 +18,7 @@ requests <br>
 ## INSTALLATION
 Start by closing the repository :
 ```
-git clone https://github.com/pascaline841/WEB-SCRAPING
+git clone https://github.com/pascaline841/p02
 ```
 Start access the project folder
 
