@@ -1,7 +1,4 @@
-<h1 align="center">Web Scraping-  BOOKS TO SCRAPE   -  OpenClassRooms Project 02 </h1><br>
-<br>
-Ce script Python est le 2e projet réalisé dans le cadre d'une formation chez OpenClassrooms. 
-<br>
+<h1 align="center"> Web Scraping-  BOOKS TO SCRAPE</h1><br>
   
 ## OVERVIEW
 
